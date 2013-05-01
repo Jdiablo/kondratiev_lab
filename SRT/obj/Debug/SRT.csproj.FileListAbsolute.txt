@@ -1,0 +1,9 @@
+c:\users\krotos\documents\visual studio 2012\Projects\SRT\SRT\bin\Debug\SRT.exe.config
+c:\users\krotos\documents\visual studio 2012\Projects\SRT\SRT\obj\Debug\SRT.csprojResolveAssemblyReference.cache
+c:\users\krotos\documents\visual studio 2012\Projects\SRT\SRT\obj\Debug\SRT.Form1.resources
+c:\users\krotos\documents\visual studio 2012\Projects\SRT\SRT\obj\Debug\SRT.Properties.Resources.resources
+c:\users\krotos\documents\visual studio 2012\Projects\SRT\SRT\obj\Debug\SRT.csproj.GenerateResource.Cache
+c:\users\krotos\documents\visual studio 2012\Projects\SRT\SRT\bin\Debug\SRT.exe
+c:\users\krotos\documents\visual studio 2012\Projects\SRT\SRT\bin\Debug\SRT.pdb
+c:\users\krotos\documents\visual studio 2012\Projects\SRT\SRT\obj\Debug\SRT.exe
+c:\users\krotos\documents\visual studio 2012\Projects\SRT\SRT\obj\Debug\SRT.pdb
