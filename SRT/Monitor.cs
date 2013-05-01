@@ -32,7 +32,8 @@ namespace SRT {
       lock (lck) {
         if (isCreationMode == true)
           return false;
-
+        
+          
         if (clients < 5) {
           ClientInfo info = new ClientInfo();
           info.requestCount = 0;

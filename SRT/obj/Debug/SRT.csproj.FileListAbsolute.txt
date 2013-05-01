@@ -10,3 +10,6 @@ c:\users\krotos\documents\visual studio 2012\Projects\SRT\SRT\obj\Debug\SRT.pdb
 C:\Users\VenCarbon\Documents\Visual Studio 2012\Projects\SRT\SRT\bin\Debug\SRT.exe.config
 C:\Users\VenCarbon\Documents\Visual Studio 2012\Projects\SRT\SRT\obj\Debug\SRT.exe
 C:\Users\VenCarbon\Documents\Visual Studio 2012\Projects\SRT\SRT\obj\Debug\SRT.pdb
+C:\Users\Jay-D\Documents\GitHub\kondratiev_lab\kondratiev_lab\SRT\bin\Debug\SRT.exe.config
+C:\Users\Jay-D\Documents\GitHub\kondratiev_lab\kondratiev_lab\SRT\obj\Debug\SRT.exe
+C:\Users\Jay-D\Documents\GitHub\kondratiev_lab\kondratiev_lab\SRT\obj\Debug\SRT.pdb
