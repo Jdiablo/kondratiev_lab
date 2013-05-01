@@ -7,3 +7,6 @@ c:\users\krotos\documents\visual studio 2012\Projects\SRT\SRT\bin\Debug\SRT.exe
 c:\users\krotos\documents\visual studio 2012\Projects\SRT\SRT\bin\Debug\SRT.pdb
 c:\users\krotos\documents\visual studio 2012\Projects\SRT\SRT\obj\Debug\SRT.exe
 c:\users\krotos\documents\visual studio 2012\Projects\SRT\SRT\obj\Debug\SRT.pdb
+C:\Users\VenCarbon\Documents\Visual Studio 2012\Projects\SRT\SRT\bin\Debug\SRT.exe.config
+C:\Users\VenCarbon\Documents\Visual Studio 2012\Projects\SRT\SRT\obj\Debug\SRT.exe
+C:\Users\VenCarbon\Documents\Visual Studio 2012\Projects\SRT\SRT\obj\Debug\SRT.pdb
